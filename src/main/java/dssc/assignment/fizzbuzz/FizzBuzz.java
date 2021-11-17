@@ -2,6 +2,10 @@ package dssc.assignment.fizzbuzz;
 
 public class FizzBuzz {
 
+    public String convert(int number) {
+        return String.valueOf(number);
+    }
+
     public static void main(String... args) {
 
         String aux;
